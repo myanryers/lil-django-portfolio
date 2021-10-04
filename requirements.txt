@@ -1,6 +1,7 @@
 django
 django-restframework
 django-filter
+graphene-django
 markdown
 mock
 pillow
