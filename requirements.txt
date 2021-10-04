@@ -1,0 +1,6 @@
+django
+django-restframework
+django-filter
+markdown
+mock
+pillow
